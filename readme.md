@@ -2,7 +2,7 @@
 
 This is after first commit.
 
-[Paper 1](./Paper1/readme.md)
+[Paper1](./Paper1/readme.md)
 
 
 
